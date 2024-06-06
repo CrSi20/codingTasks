@@ -8,13 +8,13 @@
 5. [Credit](#credit)
 
 ## Introduction <a name="introduction"></a>
-This a basic appointment manager application, where users are able to create, update and delete appointments. Users are also able to create referrals to other institutions.
+This is a basic appointment manager application, where users are able to create, update and delete appointments. Users are also able to create referrals to other institutions.
 
 Through the development of this task, I have learnt about:
 - design and implemention of an application through the MVC pattern;
 - became familiar with software design as I created use case, class and sequence diagrams to help to understand the architecture of the application;
 - understand the concept of OOP modularization;
-- understand the practical aspects of an implementation of a project such as to created a virtual environment, amongst others;
+- understand the practical aspects of an implementation of a project such as to create a virtual environment, amongst others;
 - learnt about linting;
 - reinforce the importance and becoming familiar with pep 8 guidelines;
 - learnt mock testing. 
@@ -29,8 +29,7 @@ Architecture: the MVC pattern was used to design the application.
 ## Usage <a name="usage"></a>
 To use this application you should install Python. 
 
-To be able to start to use the application go to the main.py file. Once you run the file, you are taken to a menu of options. Register before
-being able to create, view or delete an appointment. 
+To be able to start to use the application go to the main.py file. Once you run the file, you are taken to a menu of options. Register before create, view or delete an appointment. 
 - View the menu:
 <img width="418" alt="Screenshot 2024-06-05 at 22 27 49" src="https://github.com/CrSi20/codingTasks/assets/161245972/432c99da-6258-4e3c-83b9-188a96949442">
 
